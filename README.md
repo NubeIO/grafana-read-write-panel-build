@@ -1,6 +1,15 @@
 # Introduction
 
-Grafana R/W Panel for showing value on slider/switch and also writing value of slider/switch (if writable like in MQTT)
+`Grafana R/W Panel` for showing value on slider/switch and also writing value of:
+
+- SingleStat (for just read)
+- Slider
+- Switch
+- MultiSwitch
+
+## Constraint:
+
+- It needs `MQTT Data Source`
 
 ## Getting started
 
