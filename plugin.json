@@ -5,7 +5,7 @@
   "info": {
     "description": "Grafana Read Write Panel",
     "author": {
-      "name": "RaiBnod",
+      "name": "Nube iO",
       "url": "https://nubeio.com"
     },
     "keywords": ["slider"],
@@ -24,7 +24,7 @@
       }
     ],
     "screenshots": [],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "updated": "2020-09-09"
   },
   "dependencies": {
