@@ -24,8 +24,8 @@
       }
     ],
     "screenshots": [],
-    "version": "1.0.0-rc8",
-    "updated": "2020-10-08"
+    "version": "1.0.0-rc9",
+    "updated": "2020-10-15"
   },
   "dependencies": {
     "grafanaVersion": "6.3.x",
